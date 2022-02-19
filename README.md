@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammed-fazil-k
-- 🌱 I’m currently learning Android development in Java
+- 🌱 I’m currently learning about web development using React framework
 - 📫 muhammedfazil104@gmail.com
 
 <!---
